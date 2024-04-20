@@ -1,0 +1,9 @@
+scikit-learn
+pyspark
+pandas
+numpy
+findspark
+matplotlib
+statsmodels
+seaborn
+pmdarima
